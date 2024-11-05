@@ -15,8 +15,8 @@ In this project, I have scraped the lastest data from: <br>
 ## Notebook Content:
 
 1. **Part I - Necessary Libraries**
-2. 
-3. **Part II - Web Scraping**
+
+2. **Part II - Web Scraping**
 
 4. **Part III - Data Cleanning + Preprocessing**
 
@@ -31,7 +31,6 @@ In this project, I have scraped the lastest data from: <br>
     - ElasticNetCV Model
 
 8. **Part VII - The Best Model + Summary**
-
 
 ## File Included
 - **Notebook**:  Quebec Residential Property Price Prediction.ipynb
